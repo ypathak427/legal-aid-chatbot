@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.pyc
+legal_db*/
+.ipynb_checkpoints/
