@@ -1,5 +1,5 @@
 --extra-index-url https://download.pytorch.org/whl/cpu
-torch==2.5.1
+torch==2.13.0+cpu
 fastapi==0.138.2
 uvicorn[standard]==0.49.0
 pydantic==2.13.4
